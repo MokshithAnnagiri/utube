@@ -7,7 +7,7 @@
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": ""
+      "value": "6175657672:AAFSRQ-8taMHfFy0oXlDWhSm-kVPAk78I9I"
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
@@ -16,23 +16,23 @@
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "3615862"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value": "c80e5d81f4b1b98ae030133d7c096f8d"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "916231134159-l1md145s9umsj8kt3jndt9tpe8lpo77v.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "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"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "939893103"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
@@ -61,7 +61,7 @@
     },
     "UPLOAD_MODE": {
       "description": "The video's privacy status. Valid values for this property are: private, public, unlisted",
-      "value": "private",
+      "value": "public",
       "required":false
     },
     "DEBUG": {
